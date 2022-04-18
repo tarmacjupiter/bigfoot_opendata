@@ -1,1 +1,1 @@
-﻿# Big Foot Visual Analysis
+﻿# Big Foot Sightings Visual Analysis
